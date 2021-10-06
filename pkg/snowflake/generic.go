@@ -21,6 +21,7 @@ const (
 	SecurityIntegrationType     EntityType = "SECURITY INTEGRATION"
 	UserType                    EntityType = "USER"
 	WarehouseType               EntityType = "WAREHOUSE"
+	OrganizationType            EntityType = "ORGANIZATION ACCOUNTS"
 )
 
 type Builder struct {
